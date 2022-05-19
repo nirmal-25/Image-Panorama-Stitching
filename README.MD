@@ -12,6 +12,10 @@ The ```.ipynb``` file can be used for panorama stitching of custom images, along
 
 <img src="https://user-images.githubusercontent.com/51696913/169203052-f6f3d11e-cda6-4c4b-99f5-031b376b4156.png" width="400">
 
+*RANSAC using SIFT keypoints*
+
+<img src="https://user-images.githubusercontent.com/51696913/169204171-9b61072c-215a-46dd-99ca-c2a11c0237b0.png" width="400">
+
 *Sample output images*
 
 <img src="https://user-images.githubusercontent.com/51696913/169203134-8c3820c2-90fb-4eae-ace2-c50ba6f4b0cd.png" width="400">
