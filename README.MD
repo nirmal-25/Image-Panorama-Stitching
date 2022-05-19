@@ -1,4 +1,4 @@
-### Image Stitching and Warping
+# Image Stitching and Warping
 
 2D Homography is implemented from scratch here; note that there is a ```findHomography()``` function in OpenCV. Then warping is done to map the source image to the destination using the inverse of the Homography matrix obtained. 
 
